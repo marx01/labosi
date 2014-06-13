@@ -1,0 +1,137 @@
+body{
+      margin: 0;
+      padding: 0;
+      background-color: grey;
+}
+
+img{ 
+      max-width: 50%; 
+}
+
+
+.heder { 
+      background: #FFF; 
+      padding: 0px 0;
+      -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.3);
+      -moz-box-shadow: 0 0 20px rgba(0,0,0,0.3);
+      box-shadow: 0 0 20px rgba(0,0,0,0.3);
+      width: 100%;
+}
+
+.heder img{
+      width:250px;
+      height:100px;
+      margin-left: -23px;
+}
+
+.site-footer a {
+      display: inline-block;
+      padding: 10px 20px;
+      color: #DB5949;
+      text-decoration: none;
+      font-weight: 400;
+}
+.footer-navigation li {
+      display: inline;
+}
+
+a{ 
+      color: #DB5949; 
+}
+a:hover {
+      text-decoration: none; 
+}
+
+.gray-boxes {
+      in-top:60px;
+}
+
+.gray-boxes h1{
+      color: #14786D;
+      padding-top: 40px;
+      padding-left: 33px;
+}
+
+.meni {
+}
+
+.izbor {
+      width: 100%;
+}
+
+.izbor a {
+      display:block;
+      text-align:center;
+      padding-top: 13px;
+      color:#fff;
+}
+
+
+.sadrzaj {
+  margin-top: 20px;
+}
+
+.sadrzaj a{
+      color:#000;
+
+
+}
+
+.sidro {
+}
+
+
+.sidro a {
+      display:block;
+      text-align:center;
+      padding-top: 13px;
+      text-decoration: none;
+}
+
+.sidro a:hover{
+    
+}
+
+.izborni{
+      height:20px;
+}
+
+
+.korisnik{
+      float:right;
+      padding-top: -0px;
+      margin-left: 600px;
+}
+
+.korisnik h2{
+      text-align:right;
+}
+
+.gumb {
+      float:right;
+      height:50px;
+      padding-top: 23px;
+}
+
+.bttn{
+  margin-top: 20px;
+  margin-left: -80px;
+     
+}
+
+.forma {
+      float: left;
+      margin-top: 150px;
+      margin-left: -385px;
+}
+
+.site-footer {
+      margin-top: 20px;
+    	text-align: center;
+    	padding: 10px;
+    	background: #FFF;
+}
+
+.site-footer ul {
+      padding: 0;
+}
